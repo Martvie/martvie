@@ -1,6 +1,6 @@
 <img align="right" height="350" width="350" src="src/images/Nerd.gif">
 
-## Olá, bem vinde ao meu Github!
+## Olá, bem vinde ao meu Github! 👋
 <p style="text-align: justify; margin-rigth: 5px;">
 Me chamo Marcus, sou um estudante de Químca e gosto bastante da área de desenvolvimento, aqui você poderar ver alguns dos meus projetos e estudos, todas as dicas para melhora de códigos são muito bem vindas, e caso queira me convidar para algum projeto estou à disposição
 </p>
