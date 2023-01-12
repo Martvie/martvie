@@ -30,8 +30,8 @@ Algumas das tecnologias que estudo e já aplico em projetos são:
 
 <div>
   <a href="https://github.com/martvie">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=martvie&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martvie&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=martvie&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=martvie&layout=compact&langs_count=6&theme=tokyonight](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=martvie&layout=compact&langs_count=6&theme=tokyonight)"/>
 </div>
  
   ![Snake animation](https://github.com/martvie/martvie/blob/output/github-contribution-grid-snake.svg)
