@@ -2,23 +2,32 @@
 
 ## Olá, bem vinde ao meu Github! 👋
 <p style="text-align: justify; margin-rigth: 5px;">
-Me chamo Marcus, sou um estudante de Químca e gosto bastante da área de desenvolvimento, aqui você poderar ver alguns dos meus projetos e estudos, todas as dicas para melhora de códigos são muito bem vindas, e caso queira me convidar para algum projeto estou à disposição
+Olá, me chamo Marcus e atualmente sou um desenvolvedor front-end, aqui você pode ver alguns dos meus projetos aplicando algumas das tecnologias que já uso ou estou estudando e é claro ver como está sendo minha evolução!
 </p>
 
 ### Tecnologias
 
-Algumas das tecnologias que estudo e já aplico em projetos são:
+Algumas das tecnologias que já aplico em projetos são:
  - HTML
  - CSS
  - JavaScript
  - React
+
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
  
  <br>
+
+ ## Habilidades em desenvolvimento
+Ultimamente estou focando no desenvolvimento das minhas habilidades em duas tecnologias sendo elas
+- TypeScript
+- Jest 
+
  
  ## Contatos
  
