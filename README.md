@@ -11,7 +11,9 @@ Algumas das tecnologias que já aplico em projetos são:
  - HTML
  - CSS
  - JavaScript
+ - TypeScript
  - React
+ - Jest
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -19,14 +21,17 @@ Algumas das tecnologias que já aplico em projetos são:
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
  
  <br>
 
  ## Habilidades em desenvolvimento
 Ultimamente estou focando no desenvolvimento das minhas habilidades em duas tecnologias sendo elas
-- TypeScript
-- Jest 
+- Node
+- PostgreSQL
 
  
  ## Contatos
